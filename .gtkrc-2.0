@@ -1,0 +1,20 @@
+include "/home/lobo/.gtkrc-2.0.mine"
+#gtk-theme-name="delorean-dark"
+# DeLorean Dark appears busted on gtk 3.22
+# However, Adwaita is available for gtk 2 and 3 starting with gtk 3.20
+# Debian has this with gnome-themes-standard and gnome-themes-standard-data
+# there is also a QT Version available for debian adwaita-qt and adwaita-qt4
+gtk-theme-name="Adwaita-dark"
+gtk-icon-theme-name="Faenza-Radiance"
+gtk-font-name="Sans 10"
+gtk-cursor-theme-name="DMZ-Black"
+gtk-cursor-theme-size=0
+gtk-toolbar-style=GTK_TOOLBAR_BOTH
+gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
+gtk-button-images=1
+gtk-menu-images=1
+gtk-enable-event-sounds=1
+gtk-enable-input-feedback-sounds=1
+gtk-xft-antialias=1
+gtk-xft-hinting=1
+gtk-xft-hintstyle="hintfull"
