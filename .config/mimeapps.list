@@ -10,6 +10,27 @@ application/x-extension-shtml=firefox.desktop
 application/xhtml+xml=firefox.desktop
 application/x-extension-xhtml=firefox.desktop
 application/x-extension-xht=firefox.desktop
+application/vnd.oasis.opendocument.text=libreoffice.desktop
+application/vnd.oasis.opendocument.text-template=libreoffice.desktop
+application/vnd.oasis.opendocument.text-web=libreoffice.desktop
+application/vnd.oasis.opendocument.text-master=libreoffice.desktop
+application/vnd.oasis.opendocument.graphics=libreoffice.desktop
+application/vnd.oasis.opendocument.graphics-template=libreoffice.desktop
+application/vnd.oasis.opendocument.presentation=libreoffice.desktop
+application/vnd.oasis.opendocument.presentation-template=libreoffice.desktop
+application/vnd.oasis.opendocument.spreadsheet=libreoffice.desktop
+application/vnd.oasis.opendocument.spreadsheet-template=libreoffice.desktop
+application/vnd.oasis.opendocument.chart=libreoffice.desktop
+application/vnd.oasis.opendocument.formula=libreoffice.desktop
+application/vnd.oasis.opendocument.database=libreoffice.desktop
+application/vnd.oasis.opendocument.image=libreoffice.desktop
+application/vnd.openofficeorg.extension=libreoffice.desktop
+application/msword=libreoffice.desktop
+application/vnd.ms-excel=libreoffice.desktop
+application/vnd.ms-powerpoint=libreoffice.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice.desktop
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice.desktop
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice.desktop
 
 [Added Associations]
 x-scheme-handler/http=exo-web-browser.desktop
@@ -31,4 +52,4 @@ video/mp4=vlc.desktop;
 video/mpeg=vlc.desktop;
 video/x-msvideo=vlc.desktop;
 application/pdf=firefox.desktop;
-
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice.desktop;
