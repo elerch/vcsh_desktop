@@ -52,4 +52,12 @@ video/mp4=vlc.desktop;
 video/mpeg=vlc.desktop;
 video/x-msvideo=vlc.desktop;
 application/pdf=firefox.desktop;
+text/markdown=gcr-viewer.desktop;
+application/msword=libreoffice.desktop;
+image/png=feh.desktop;
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice.desktop;
+video/quicktime=vlc.desktop;
+video/x-matroska=vlc.desktop;
+
