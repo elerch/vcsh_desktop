@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Amazon Workspaces (container)
+Comment=RDP into a cloud instance
+GenericName=Remote Desktop
+Exec=bash -ic 'workspaces' %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=workspaces
+Categories=Container

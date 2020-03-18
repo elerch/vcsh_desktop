@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=bash -ic 'chromium' %u
+Name=Chromium (container)
+Comment=Runs ungoogled chromium in a container
