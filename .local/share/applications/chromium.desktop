@@ -4,4 +4,4 @@ Version=1.0
 Type=Application
 Exec=bash -ic 'chromium' %u
 Name=Chromium (container)
-Comment=Runs ungoogled chromium in a container
+Comment=Runs ungoogled chromium in a container (image 550MB)
