@@ -5,7 +5,9 @@ GenericName[de]=Passwortverwaltung
 GenericName[es]=Gestor de contraseñas
 GenericName[fr]=Gestionnaire de mot de passe
 Comment=Community-driven port of the Windows application “KeePass Password Safe”
-Exec=sh -c 'keepassxc -stylesheet "$HOME/.qdarkss/qdarkstyle/style.qss" %U'
+# For < KeepassXC 2.6, we need the qss
+# Exec=sh -c 'keepassxc -stylesheet "$HOME/.qdarkss/qdarkstyle/style.qss" %U'
+Exec=keepassxc %U
 StartupWMClass=keepassxc
 Type=Application
 Terminal=false
