@@ -1,7 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Version=1.0
-Type=Application
-Exec=bash -ic 'slack' %u
-Name=Slack (container)
-Comment=Runs Slack in a container (image 1GB)

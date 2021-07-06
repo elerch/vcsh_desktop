@@ -1,7 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Version=1.0
-Type=Application
-Exec=bash -ic 'teams' %u
-Name=Teams (container)
-Comment=Runs Microsoft Teams in a container (image 700MB)

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Zoom
-GenericName=Desktop Conferencing
-Comment=Dockerized version of Zoom
-Exec=bash -i -c zoom
-Terminal=false
-Type=Application
-StartupWMClass=zoomconferencing
-Version=1.0
