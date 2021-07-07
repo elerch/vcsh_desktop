@@ -1,0 +1,16 @@
+com.amazon.Workspaces
+com.github.tchx84.Flatseal
+com.microsoft.Teams
+com.slack.Slack
+org.freedesktop.Platform
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.VAAPI.Intel
+org.freedesktop.Platform.ffmpeg-full
+org.freedesktop.Platform.openh264
+org.gnome.Platform
+org.gnome.Platform
+org.gtk.Gtk3theme.Adwaita-dark
+org.libreoffice.LibreOffice
+org.mozilla.firefox
+org.remmina.Remmina
+us.zoom.Zoom

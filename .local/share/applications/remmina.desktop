@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Remmina
-GenericName=Remote Desktop
-Comment=Dockerized version of Remmina
-Exec=bash -i -c remmina
-Terminal=false
-Type=Application
-StartupWMClass=remminaremotedesktop
-Version=1.0
